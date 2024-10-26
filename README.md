@@ -4,9 +4,7 @@
 Developing the next generation of e-commerce solutions. Currently focused on building scalable marketplace applications using modern web technologies.
 
 ### Current Focus
-- E-commerce Platforms
 - Marketplace Solutions
-- Sales Optimization Systems
 
 ### Tech Stack
 - Frontend: React, Next.js, TypeScript
