@@ -18,7 +18,7 @@ Developing the next generation of e-commerce solutions. Currently focused on bui
 - 📚 Future: Marketplace Sales Enhancement Solutions
 
 ### Let's Connect
-[LinkedIn](https://www.linkedin.com/in/joaomartinsr/)] [Email:joaomartins@live.it] 
+ [LinkedIn](https://www.linkedin.com/in/joaomartinsr/)] [Email:joaomartins@live.it] 
 
 ---
 "Transforming marketplace presence into sales success, one commit at a time."
