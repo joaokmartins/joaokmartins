@@ -1,24 +1,24 @@
 # João Martins
 
 ## About Me
-Developing the next generation of e-commerce solutions. Currently focused on building scalable marketplace applications using modern web technologies.
+Passionate about developing the next generation of intelligent systems. Currently focused on building scalable Large Language Model (LLM) solutions and advancing my skills in Natural Language Processing (NLP), with a strong foundation in modern web and machine learning technologies.
 
-### Current Focus
-- Marketplace Solutions
+## Current Focus
+Developing LLM-powered solutions for intelligent applications.
+Exploring custom architectures for advanced machine learning systems.
+Tech Stack
+Frontend: React, Next.js, TypeScript
+Backend: Node.js, Express
+Database: PostgreSQL, MongoDB
+Machine Learning: Python, TensorFlow, PyTorch (learning phase)
+Tools: Git, GitHub, Docker
 
-### Tech Stack
-- Frontend: React, Next.js, TypeScript
-- Backend: Node.js, Express
-- Database: PostgreSQL, MongoDB
-- Tools: Git, GitHub
+## Learning Path
+🔄 Currently: Diving into advanced NLP concepts for LLM foundations.
+🎯 Next Goal: Implementing scalable and intelligent architectures for data-driven systems.
+📚 Future Goal: Applying LLM solutions to improve performance and personalization across various fields.
+Let's Connect
+LinkedIn: 
 
-### Learning Path
-- 🔄 Currently: Next.js & React foundations
-- 🎯 Next: E-commerce architecture
-- 📚 Future: Marketplace Sales Enhancement Solutions
-
-### Let's Connect
- LinkedIn(https://www.linkedin.com/in/joaomartinsr/)] Email:joaomartins@live.it
-
----
-"Transforming marketplace presence into sales success, one commit at a time."
+www.linkedin.com
+Email: joaomartins@live.it
