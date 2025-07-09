@@ -20,5 +20,5 @@ Tools: Git, GitHub, Docker
 Let's Connect
 LinkedIn: 
 
-## www.linkedin.com
+## https://www.linkedin.com/in/joaomartinsr/
 ## Email: joaomartins@live.it
